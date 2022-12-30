@@ -1,0 +1,7 @@
+# Faça um programa que leia algo pelo teclado e mostre na tela
+#
+# Seu tipo primitivo
+# Só tem espaços || EX:         -> eu acabei de escrever uma string que SÓ TEM ESPAÇOS
+# Verificar se ele é um número ou não
+# Verificar se ele é alfabético || EX: A é alfabético, mas 3 não é
+# Verificar se ele é alfanúmerico || EX: O alfanúmerico é tudo aquilo tem tem letras e número juntos. ABC123 -> Ele é alfabético ABC e númerico 123
